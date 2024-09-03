@@ -29,3 +29,6 @@ print("your favorite animal is a" + favorite_animal)
 #plus sign is used to concatenate strings
 
 
+# lets do some practice
+
+
